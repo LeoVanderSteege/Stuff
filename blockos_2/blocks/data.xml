@@ -1,0 +1,65 @@
+<xml>
+	<block>
+		<name></name>
+		<pre>Text: </pre>
+		<code>"§V§"</code>
+		<type>2</type>
+		<args>2</args>
+		<stick>2</stick>
+		<edit>1</edit>
+	</block>
+	<block>
+		<name></name>
+		<pre>Name: </pre>
+		<code>§V§</code>
+		<type>2</type>
+		<args>2</args>
+		<stick>2</stick>
+		<edit>1</edit>
+	</block>
+	<block>
+		<name></name>
+		<pre>Number: </pre>
+		<code>§V§</code>
+		<type>2</type>
+		<args>2</args>
+		<stick>2</stick>
+		<edit>1</edit>
+	</block>
+	<block>
+		<name></name>
+		<pre>Random: </pre>
+		<code>random(§V§)</code>
+		<type>2</type>
+		<args>2</args>
+		<stick>2</stick>
+		<edit>1</edit>
+	</block>
+	<block>
+		<name>Number Type</name>
+		<pre></pre>
+		<code>float</code>
+		<type>2</type>
+		<args>2</args>
+		<stick>2</stick>
+		<edit>0</edit>
+	</block>
+	<block>
+		<name>Text Type</name>
+		<pre></pre>
+		<code>String</code>
+		<type>2</type>
+		<args>2</args>
+		<stick>2</stick>
+		<edit>0</edit>
+	</block>
+	<block>
+		<name>Color Type</name>
+		<pre></pre>
+		<code>color</code>
+		<type>2</type>
+		<args>2</args>
+		<stick>2</stick>
+		<edit>0</edit>
+	</block>
+</xml>

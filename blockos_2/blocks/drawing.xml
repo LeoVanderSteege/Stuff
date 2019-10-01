@@ -1,0 +1,47 @@
+<xml>
+	<block>
+		<name>Rectangle</name>
+		<pre></pre>
+		<code>rect(§0§, §1§, §2§, §3§);</code>
+		<type>1</type>
+		<args>0</args>
+		<stick>1</stick>
+		<edit>0</edit>
+	</block>
+	<block>
+		<name>Ellipse</name>
+		<pre></pre>
+		<code>ellipse(§0§, §1§, §2§, §3§);</code>
+		<type>1</type>
+		<args>0</args>
+		<stick>1</stick>
+		<edit>0</edit>
+	</block>
+	<block>
+		<name>Triangle</name>
+		<pre></pre>
+		<code>triangle(§0§, §1§, §2§, §3§, §4§, §5§);</code>
+		<type>1</type>
+		<args>0</args>
+		<stick>1</stick>
+		<edit>0</edit>
+	</block>
+	<block>
+		<name>Line</name>
+		<pre></pre>
+		<code>line(§0§, §1§, §2§, §3§);</code>
+		<type>1</type>
+		<args>0</args>
+		<stick>1</stick>
+		<edit>0</edit>
+	</block>
+	<block>
+		<name>Point</name>
+		<pre></pre>
+		<code>point(§0§, §1§);</code>
+		<type>1</type>
+		<args>0</args>
+		<stick>1</stick>
+		<edit>0</edit>
+	</block>
+</xml>

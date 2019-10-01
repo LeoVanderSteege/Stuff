@@ -1,0 +1,29 @@
+<xml>
+	<block>
+		<name>If</name>
+		<pre></pre>
+		<code>if (§0§  §1§  §2§) {</code>
+		<type>1</type>
+		<args>0</args>
+		<stick>1</stick>
+		<edit>0</edit>
+	</block>
+	<block>
+		<name>Repeat</name>
+		<pre></pre>
+		<code>for (int §1§ = 0; §1§ != §0§; §1§++) {</code>
+		<type>1</type>
+		<args>0</args>
+		<stick>1</stick>
+		<edit>0</edit>
+	</block>
+	<block>
+		<name>Close Loop</name>
+		<pre></pre>
+		<code> }</code>
+		<type>1</type>
+		<args>1</args>
+		<stick>1</stick>
+		<edit>0</edit>
+	</block>
+</xml>

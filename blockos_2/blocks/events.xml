@@ -1,0 +1,29 @@
+<xml>
+	<block>
+		<name>On Start</name>
+		<pre></pre>
+		<code>void setup()</code>
+		<type>0</type>
+		<args>1</args>
+		<stick>3</stick>
+		<edit>0</edit>
+	</block>
+	<block>
+		<name>On Draw</name>
+		<pre></pre>
+		<code>void draw()</code>
+		<type>0</type>
+		<args>1</args>
+		<stick>3</stick>
+		<edit>0</edit>
+	</block>
+	<block>
+		<name>Variable</name>
+		<pre></pre>
+		<code>§0§  §1§ = §2§ ;</code>
+		<type>3</type>
+		<args>2</args>
+		<stick>3</stick>
+		<edit>0</edit>
+	</block>
+</xml>

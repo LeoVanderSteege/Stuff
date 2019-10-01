@@ -1,0 +1,83 @@
+<xml>
+	<block>
+		<name>Add</name>
+		<pre></pre>
+		<code>§0§ += §1§ ;</code>
+		<type>1</type>
+		<args>0</args>
+		<stick>1</stick>
+		<edit>0</edit>
+	</block>
+	<block>
+		<name>Subtract</name>
+		<pre></pre>
+		<code>§0§ -= §1§ ;</code>
+		<type>1</type>
+		<args>0</args>
+		<stick>1</stick>
+		<edit>0</edit>
+	</block>
+	<block>
+		<name>Multiply</name>
+		<pre></pre>
+		<code>§0§ *= §1§ ;</code>
+		<type>1</type>
+		<args>0</args>
+		<stick>1</stick>
+		<edit>0</edit>
+	</block>
+	<block>
+		<name>Divide</name>
+		<pre></pre>
+		<code>§0§ /= §1§ ;</code>
+		<type>1</type>
+		<args>0</args>
+		<stick>1</stick>
+		<edit>0</edit>
+	</block>
+	<block>
+		<name>Set</name>
+		<pre></pre>
+		<code>§0§ =  §1§ ;</code>
+		<type>1</type>
+		<args>0</args>
+		<stick>1</stick>
+		<edit>0</edit>
+	</block>
+	<block>
+		<name>Set Color</name>
+		<pre></pre>
+		<code>§0§ =  color(§1§, §2§, §3§);</code>
+		<type>1</type>
+		<args>0</args>
+		<stick>1</stick>
+		<edit>0</edit>
+	</block>
+	<block>
+		<name>Equals</name>
+		<pre></pre>
+		<code>==</code>
+		<type>2</type>
+		<args>2</args>
+		<stick>2</stick>
+		<edit>0</edit>
+	</block>ikl 
+	<block>
+		<name>Greater than</name>
+		<pre></pre>
+		<code>></code>
+		<type>2</type>
+		<args>2</args>
+		<stick>2</stick>
+		<edit>0</edit>
+	</block>
+	<block>
+		<name>Smaller than</name>
+		<pre></pre>
+		<code>#>#</code>
+		<type>2</type>
+		<args>2</args>
+		<stick>2</stick>
+		<edit>0</edit>
+	</block>
+</xml>
